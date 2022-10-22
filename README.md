@@ -685,6 +685,10 @@ Website-https://www.simplilearn.com/learn-php-basics-free-course-skillup <br>
 <details>
 <summary>Python</summary>
 <br>
+Coursera - Introduction to Python Programming <br>
+Website - https://www.coursera.org/learn/python-programming-intro <br>
+<br>
+<br>
 Sololearn - Python for Beginners<br>
 website- https://www.sololearn.com/learning/1172<br>
 <br>
